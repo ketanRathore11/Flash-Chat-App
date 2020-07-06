@@ -1,6 +1,6 @@
 # flash_chat
 
-A new Flutter application.
+A group chat android application.
 
 ## Getting Started
 
