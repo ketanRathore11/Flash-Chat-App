@@ -1,6 +1,7 @@
 # flash_chat
 
 A group chat android application.
+In this application user can chat with another users after creating account on the app.
 
 ## Getting Started
 
